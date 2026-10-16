@@ -1,0 +1,8 @@
+{
+  "name": "Chess Coach",
+  "description": "A two-player chess application featuring a real-time AI coaching overlay, Stockfish engine evaluation, interactive advantage bar, move annotation badges, live eval graph, and conversational move feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
